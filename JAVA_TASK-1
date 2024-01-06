@@ -60,7 +60,3 @@ public class NumberGame {
         return new Random().nextInt(upperBound - lowerBound + 1) + lowerBound;
     }
 }
-
-
-
-
